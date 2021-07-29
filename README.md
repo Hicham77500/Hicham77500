@@ -1,16 +1,21 @@
-### Hi there
+![gif](programming.gif)
 
-<!--
-**Hicham77500/Hicham77500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour,
 
-Here are some ideas to get you started: voila c'est changer
+## Hé, je suis Hicham ! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Je suis un développeur html,Css,JavaScript. Je me concentre actuellement sur le FrontEnd. J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter sur LinkedIn.
+
+## Retrouvez-moi sur le web 🌍
+
+- [**LinkedIn**](https://www.linkedin.com/in/hicham-guendouz-578759125/)
+
+## Skills 🚀
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/{Hicham77500}/count.svg)
