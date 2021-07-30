@@ -1,7 +1,7 @@
 ![gif](programming.gif)
 ## Hey, je suis Hicham ! 👋
 
-## Je suis un développeur html,Css,JavaScript. Je me concentre actuellement sur le FrontEnd. J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter sur LinkedIn.
+## Je suis un développeur html, Css et JavaScript. Je me concentre actuellement sur le FrontEnd. J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter sur LinkedIn.
 
 ## Retrouvez-moi sur le web 🌍
 
