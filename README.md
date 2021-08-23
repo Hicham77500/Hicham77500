@@ -1,7 +1,7 @@
 ![gif](programming.gif)
 ## Hey, je suis Hicham ! 👋
 
-## Je suis développeur FrontEnd. J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter sur LinkedIn.
+## J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter sur LinkedIn.
 
 ## Retrouvez-moi sur le web 🌍
 
