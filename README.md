@@ -24,5 +24,5 @@
 
 ## Projets phares 🚀
 
-- [Dashboard NASA]([lien_du_projet](https://github.com/Hicham77500/Dashboard_Nasa)) : Ce projet est un Dashboard interactif qui permet de suivre en temps réel les astéroïdes proches de la Terre grâce à l'API NeoWs de la NASA.
-- [Projet Cocktails]([lien_du_projet](https://github.com/Hicham77500/Cocktails)) : Premier projet avec le framework ANGULAR avec quelques composants et CSS réalisé un notion avec chaque étape du projet a été créé en parallèle
+- [Dashboard NASA](https://github.com/Hicham77500/Dashboard_Nasa) : Ce projet est un Dashboard interactif qui permet de suivre en temps réel les astéroïdes proches de la Terre grâce à l'API NeoWs de la NASA.
+- [Projet Cocktails](https://github.com/Hicham77500/Cocktails) : Premier projet avec le framework ANGULAR avec quelques composants et CSS réalisé un notion avec chaque étape du projet a été créé en parallèle
