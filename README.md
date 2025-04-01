@@ -22,6 +22,9 @@
 #### Profile Views
 
 ![Statistiques GitHub de Hicham](https://github-readme-stats.vercel.app/api?username=Hicham77500&show_icons=true&theme=radical)
+
+
+Total Visitors : 
 ![Visitor Count](https://profile-counter.glitch.me/{Hicham77500}/count.svg)
 
 ## Projets phares 🚀
