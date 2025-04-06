@@ -1,7 +1,6 @@
 ![gif](programming.gif)
-## Hey, je suis Hicham ! 👋
 
-## J'aimerai contribuer à des projets open source. N'hésitez pas à me contacter sur LinkedIn.
+## hello! 👋
 
 ## Retrouvez-moi sur le web 🌍
 
