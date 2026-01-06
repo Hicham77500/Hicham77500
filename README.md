@@ -2,7 +2,7 @@
 
 ## hello! 👋
 
-## Retrouvez-moi sur le web 🌍
+## Retrouvez-moi sur 🌍
 
 - [**LinkedIn**](https://www.linkedin.com/in/hicham-guendouz-578759125/)
 
@@ -23,12 +23,6 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VMware Workstation](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-#### Profile Views
-
-![Profile views](https://img.shields.io/badge/visites-900%2B-lightgrey)
-
-
-
 ## Projets phares 🚀
 
 - [Dashboard NASA](https://github.com/Hicham77500/Dashboard_Nasa) : Ce projet est un Dashboard interactif qui permet de suivre en temps réel les astéroïdes proches de la Terre grâce à l'API NeoWs de la NASA.
@@ -36,5 +30,7 @@
 
 ![](https://img.shields.io/badge/Malt-En%20freelance-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/Disponible-Oui-brightgreen?style=for-the-badge)
+
+![Profile views](https://img.shields.io/badge/visites-900%2B-lightgrey)
 
 
