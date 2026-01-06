@@ -25,8 +25,7 @@
 
 #### Profile Views
 
-![Profile views](https://img.shields.io/badge/visites-900%2B-brightgreen?style=for-the-badge)
-![Profile views](https://img.shields.io/badge/visites-900%2B-lightgrey)
+![Visiteurs](https://komarev.com/ghpvc/?username=Hicham77500&label=Visiteurs%20du%20profil&color=brightgreen&style=flat-square)
 
 
 ## Projets phares 🚀
@@ -37,4 +36,4 @@
 ![](https://img.shields.io/badge/Malt-En%20freelance-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/Disponible-Oui-brightgreen?style=for-the-badge)
 
-![Visiteurs](https://komarev.com/ghpvc/?username=Hicham77500&label=Visiteurs%20du%20profil&color=brightgreen&style=flat-square)
+
