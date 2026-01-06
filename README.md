@@ -25,7 +25,8 @@
 
 #### Profile Views
 
-![Visiteurs](https://komarev.com/ghpvc/?username=Hicham77500&label=Visiteurs%20du%20profil&color=brightgreen&style=flat-square)
+![Profile views](https://img.shields.io/badge/visites-900%2B-lightgrey)
+
 
 
 ## Projets phares 🚀
