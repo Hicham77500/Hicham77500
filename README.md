@@ -23,10 +23,27 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VMware Workstation](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-## Projets phares 🚀
+## Projets phares 
 
-- [Dashboard NASA](https://github.com/Hicham77500/Dashboard_Nasa) : Ce projet est un Dashboard interactif qui permet de suivre en temps réel les astéroïdes proches de la Terre grâce à l'API NeoWs de la NASA.
-- [Projet_LionTrack](https://github.com/Hicham77500/Projet_LionTrack) : Une application web permettant de suivre et gérer vos défis personnels avec une interface motivante sur le thème du "Lion Mindset".
+### 🚀 Pipeline Big Data Binance
+
+[binance](https://github.com/Hicham77500/binance)  
+Pipeline Big Data temps quasi-réel sur les cryptomonnaies : ingestion 24h via l’API Binance, stockage HDFS, traitements batch Spark (KPIs prix/volume, top cryptos), agrégats MongoDB et dashboards Power BI.  
+**Stack :** Python, Spark, HDFS, MongoDB, Power BI.
+
+### 🧱 Delivery Services – Microservices & Scalabilité
+
+[delivery-services](https://github.com/Hicham77500/delivery-services)  
+Plateforme de services de livraison construite en microservices avec DDD, TDD et cluster MariaDB Galera pour la haute disponibilité. Focus sur les patterns d’architecture et la scalabilité backend.  
+**Stack :** TypeScript, Node.js, microservices, MariaDB Galera, Docker.
+
+### 🏅 Olympique_JO – Data & Web
+
+[Olympique_JO](https://github.com/Hicham77500/Olympique_JO)  
+Projet d’analyse et d’applications autour des données olympiques : traitement, exploration et mise à disposition via une application web structurée pour l’analyse et la visualisation.  
+**Stack :** HTML, JS, outils d’analyse de données.
+
+
 
 ![](https://img.shields.io/badge/Malt-En%20freelance-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/Disponible-Oui-brightgreen?style=for-the-badge)
