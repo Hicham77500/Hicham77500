@@ -25,7 +25,9 @@
 
 #### Profile Views
 
-![Statistiques GitHub de Hicham](https://github-readme-stats.vercel.app/api?username=Hicham77500&show_icons=true&theme=radical)
+![Profile views](https://img.shields.io/badge/visites-900%2B-brightgreen?style=for-the-badge)
+![Profile views](https://img.shields.io/badge/visites-900%2B-lightgrey)
+
 
 ## Projets phares 🚀
 
