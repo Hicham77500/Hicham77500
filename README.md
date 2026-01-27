@@ -6,6 +6,12 @@
 
 - [**LinkedIn**](https://www.linkedin.com/in/hicham-guendouz-578759125/)
 
+🌐 Maintenance
+
+- [**Ciseauxdor**](https://ciseauxdor.ovh/)
+
+Je gère actuellement et maintiens ce site web, en assurant sa stabilité, ses mises à jour et son optimisation continue.
+
 ## Skills 🚀
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
