@@ -25,10 +25,11 @@ Je gère actuellement et maintiens ce site web, en assurant sa stabilité, ses m
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![API Platform](https://img.shields.io/badge/API%20Platform-000000?style=for-the-badge&logo=apollographql&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-090909?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![API Platform](https://img.shields.io/badge/API%20Platform-28A745?style=for-the-badge&logo=swagger&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-00C7D4?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-FF4500?style=for-the-badge&logo=gradio&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-DB4437?style=for-the-badge&logo=nodemailer&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
