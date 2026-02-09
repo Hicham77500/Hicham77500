@@ -28,7 +28,7 @@ Je gère actuellement et maintiens ce site web, en assurant sa stabilité, ses m
 ![API Platform](https://img.shields.io/badge/API%20Platform-000000?style=for-the-badge&logo=apollographql&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-090909?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Local AI](https://img.shields.io/badge/Local%20AI-E34F26?style=for-the-badge&logo=ollama&logoColor=white)  
+![LM Studio](https://img.shields.io/badge/LM%20Studio-FF4500?style=for-the-badge&logo=gradio&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
