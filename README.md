@@ -6,11 +6,13 @@
 
 - [**LinkedIn**](https://www.linkedin.com/in/hicham-guendouz-578759125/)
 
-🌐 Maintenance
+🌐 Projets & Maintenance
 
-- [**Ciseauxdor**](https://ciseauxdor.ovh/)
+- [**Ciseauxdor**](https://ciseauxdor.ovh/)  
+  Je fais évoluer et maintiens ce site web (correctifs, nouvelles fonctionnalités, optimisation des performances et du référencement).
 
-Je gère actuellement et maintiens ce site web, en assurant sa stabilité, ses mises à jour et son optimisation continue.
+- [**Chellois·es 2026**](https://www.chellois-es2026.fr/)  
+  J'ai réaliser à la refonte complète et gère actuellement la maintenance de ce site de campagne municipale (Next.js, React, Tailwind CSS, optimisation UX/UI et accessibilité).
 
 ## Skills 🚀
 
