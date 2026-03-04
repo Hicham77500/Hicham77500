@@ -42,6 +42,11 @@ Pipeline data • microservices • automatisations IA
 
 ---
 
+### ⚡ Currently building
+<!-- NOW:START -->
+*(auto-updating...)*
+<!-- NOW:END -->
+
 ## ⭐ Projets phares
 
 ### 🚀 Pipeline Big Data Binance
