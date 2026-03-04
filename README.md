@@ -47,7 +47,7 @@ Pipelines de données • microservices • automatisations IA
 ## ⚡ En ce moment
 
 <!-- NOW:START -->
-🚧 **Projet en cours :** [`Hicham77500`](https://github.com/Hicham77500/Hicham77500)
+🚧 **Currently building:** [`Hicham77500`](https://github.com/Hicham77500/Hicham77500) — (no description) 
 <!-- NOW:END -->
 
 ---
