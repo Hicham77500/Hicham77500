@@ -1,69 +1,55 @@
-![gif](programming.gif)
+<div align="center">
 
-## hello! 👋
+<img src="programming.gif" width="420" />
 
-## Retrouvez-moi sur 🌍
+# Hicham — Dev / Data / IA
 
-- [**LinkedIn**](https://www.linkedin.com/in/hicham-guendouz-578759125/)
+Pipeline data • microservices • automatisations IA  
+📍 Disponible en freelance • 💼 LinkedIn ci-dessous
 
-🌐 Projets & Maintenance
+[LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) • [Malt](https://www.malt.fr/profile/hichamguendouz) • [Portfolio]*(coming soon)*
 
-- [**Ciseauxdor**](https://ciseauxdor.ovh/)  
-  Je fais évoluer et maintiens ce site web (correctifs, nouvelles fonctionnalités, optimisation des performances et du référencement).
+</div>
 
-- [**Chellois·es 2026**](https://www.chellois-es2026.fr/)  
-  J'ai réaliser à la refonte complète et gère actuellement la maintenance de ce site de campagne municipale (Next.js, React, Tailwind CSS, optimisation UX/UI et accessibilité).
+---
 
-## Skills 🚀
+## 🌍 Projets & maintenance
+- **Ciseauxdor** — maintenance + nouvelles features, perf & SEO  
+  https://ciseauxdor.ovh/
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Chellois·es 2026** — refonte + maintenance (Next.js / React / Tailwind, UX/UI, accessibilité)  
+  https://www.chellois-es2026.fr/
 
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![API Platform](https://img.shields.io/badge/API%20Platform-28A745?style=for-the-badge&logo=swagger&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-00C7D4?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-FF4500?style=for-the-badge&logo=gradio&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-DB4437?style=for-the-badge&logo=nodemailer&logoColor=white)
+---
 
-![Windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![VMware Workstation](https://img.shields.io/badge/VMware_Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white)
+## 🚀 Skills (essentiel)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-00C7D4?style=flat&logo=apacheairflow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+<details>
+<summary><b>➕ More skills</b></summary>
 
-## Projets phares 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+</details>
+
+---
+
+## ⭐ Projets phares
 
 ### 🚀 Pipeline Big Data Binance
+**Quasi temps réel crypto** : ingestion API, stockage HDFS, batch Spark, agrégats MongoDB, dashboards Power BI.  
+Repo : https://github.com/Hicham77500/binance  
+**Stack :** Python, Spark, HDFS, MongoDB, Power BI
 
-[binance](https://github.com/Hicham77500/binance)  
-Pipeline Big Data temps quasi-réel sur les cryptomonnaies : ingestion 24h via l’API Binance, stockage HDFS, traitements batch Spark (KPIs prix/volume, top cryptos), agrégats MongoDB et dashboards Power BI.  
-**Stack :** Python, Spark, HDFS, MongoDB, Power BI.
-
-### 🧱 Delivery Services – Microservices & Scalabilité
-
-[delivery-services](https://github.com/Hicham77500/delivery-services)  
-Plateforme de services de livraison construite en microservices avec DDD, TDD et cluster MariaDB Galera pour la haute disponibilité. Focus sur les patterns d’architecture et la scalabilité backend.  
-**Stack :** TypeScript, Node.js, microservices, MariaDB Galera, Docker.
-
-### 🏅 Olympique_JO – Data & Web
-
-[Olympique_JO](https://github.com/Hicham77500/Olympique_JO)  
-Projet d’analyse et d’applications autour des données olympiques : traitement, exploration et mise à disposition via une application web structurée pour l’analyse et la visualisation.  
-**Stack :** HTML, JS, outils d’analyse de données.
-
-
-
-![](https://img.shields.io/badge/Malt-En%20freelance-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Disponible-Oui-brightgreen?style=for-the-badge)
-
-![Profile views](https://img.shields.io/badge/visites-900%2B-lightgrey)
-
-
+### 🧱 Delivery Services — Microservices & scalabilité
+Plateforme microservices (DDD/TDD) + HA via MariaDB Galera.  
+Repo : https://github.com/Hicham77500/delivery-services  
+**Stack :** TypeScript, Node.js, MariaDB Galera, Docker
