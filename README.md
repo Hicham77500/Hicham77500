@@ -47,7 +47,7 @@ Pipelines de données • microservices • automatisations IA
 ## ⚡ En ce moment
 
 <!-- NOW:START -->
-🚧 **Currently building:** [`ProjectCDA-MoL--Angular`](https://github.com/Hicham77500/ProjectCDA-MoL--Angular) — projet fin d'étude Concepteur Développeur d'Application 
+🚧 **Currently building:** [`Hicham77500`](https://github.com/Hicham77500/Hicham77500) — (no description) 
 <!-- NOW:END -->
 
 ---
