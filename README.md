@@ -7,7 +7,7 @@
 Pipelines de données • microservices • automatisations IA  
 📍 Disponible en freelance • 💼 LinkedIn ci-dessous
 
-[LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) • [Malt](https://www.malt.fr/profile/hichamguendouz) • Portfolio *(en cours de refonte)*
+[LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) • [Malt](https://www.malt.fr/profile/hichamguendouz) • [Portfolio](https://hicham77500.github.io/Portfolio/)
 
 </div>
 
