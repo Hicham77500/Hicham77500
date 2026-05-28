@@ -13,10 +13,8 @@ Pipelines de données • microservices • automatisations IA
 
 ---
 
-## 🌍 Projets & maintenance
+## 🌍 Projets 
 
-- **Ciseauxdor** — maintenance, nouvelles fonctionnalités, optimisation des performances et SEO  
-  https://ciseauxdor.ovh/
 
 - **Chellois·es 2026 (Archive)** — refonte complète, animations & optimisation (Next.js / React / Tailwind, UX/UI, accessibilité, actions de déploiement CI/CD)  
   🔗 [Voir le projet vitrine](https://Hicham77500.github.io/Chellois_es/)
