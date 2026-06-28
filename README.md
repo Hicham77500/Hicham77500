@@ -4,7 +4,7 @@
 
 # Hicham Software Engineer · Data · AI Agents
 
-Data Engineering • Microservices • AI Automation • Agentic Workflows
+  Microservices • AI Automation • Agentic Workflows
 
 📍 Disponible en freelance • 💼 LinkedIn ci-dessous
 
