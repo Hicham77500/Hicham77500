@@ -14,11 +14,11 @@
 
 ---
 
-## 🌍 Projets
+## 🌍 Projets en production
 
-* **Chellois·es 2026 (Archive)** — refonte complète, animations & optimisation (Next.js / React / Tailwind, UX/UI, accessibilité, CI/CD)
-  🔗 https://Hicham77500.github.io/Chellois_es/
-
+* **Reply** — carnet de suivi fitness iOS (nutrition, entraînement, poids, compléments) · sync cloud · export contexte IA externe (Swift / SwiftUI / Firebase)
+  🔗 [App Store](https://apps.apple.com/fr/app/reply-fitness/id6785667481)
+  
 ---
 
 ## 🚀 Skills
