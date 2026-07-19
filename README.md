@@ -29,12 +29,12 @@ Fullstack & Mobile · Produits publiés · Workflows data & agents
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![Apple Developer](https://img.shields.io/badge/Apple_Developer-0D96F6?style=flat&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=flat)
 
 <details>
@@ -70,6 +70,16 @@ Reply n’est pas une IA intégrée — elle prépare le meilleur contexte possi
 
 ---
 
+### 🔎 OSINTGraph — Desktop Intelligence Application
+
+Application de bureau OSINT — inspirée de Maltego — pour structurer vos enquêtes en dossiers et carnets. Elle relie personnes, comptes et artefacts dans un graphe relationnel avec suivi de la provenance et des niveaux de confiance.
+
+**Stack :** TypeScript, Python, HTML/CSS, Docker
+
+Repo : https://github.com/Hicham77500/OSINTGraph
+
+---
+
 ### 🚀 Pipeline Big Data Binance
 
 Analyse quasi temps réel des cryptomonnaies : ingestion via API Binance, stockage HDFS, traitements Spark, agrégations MongoDB et visualisation Power BI.
@@ -77,13 +87,3 @@ Analyse quasi temps réel des cryptomonnaies : ingestion via API Binance, stocka
 **Stack :** Python, Spark, HDFS, MongoDB, Power BI
 
 Repo : https://github.com/Hicham77500/binance
-
----
-
-### 🧱 Delivery Services — Microservices & Scalability
-
-Plateforme de livraison en architecture microservices avec DDD/TDD, cluster MariaDB Galera haute disponibilité et orchestration Docker.
-
-**Stack :** TypeScript, Node.js, MariaDB Galera, Docker
-
-Repo : https://github.com/Hicham77500/delivery-services
