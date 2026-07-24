@@ -4,8 +4,7 @@
 
 # Hicham · Software Engineer · Mobile · Data · AI
 
-Fullstack & Mobile · Produits publiés · Workflows data & agents
-
+Fullstack & Mobile · Production Apps · Data Workflows · AI Agents
 
 [LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) · [Malt](https://www.malt.fr/profile/hichamguendouz) · [Portfolio](https://hicham77500.github.io/Portfolio/)
 
@@ -13,15 +12,29 @@ Fullstack & Mobile · Produits publiés · Workflows data & agents
 
 ---
 
-## 🌍 Projets en production
+## 🚀 Featured Projects
 
-* **Reply Fitness** — carnet de suivi fitness iOS (nutrition, entraînement, poids, progression) · sync cloud · export de contexte vers une IA externe (ChatGPT, Claude…)  
-  **Stack :** Swift / SwiftUI / SwiftData / Firebase  
-  🔗 [App Store](https://apps.apple.com/fr/app/reply-fitness/id6785667481) 
+### 📱 Reply Fitness · App Store
+
+iOS fitness tracker for nutrition, workouts and progress with cloud synchronization and AI context export.
+
+**Stack:** Swift · SwiftUI · SwiftData · Firebase
+
+🔗 [App Store](https://apps.apple.com/fr/app/reply-fitness/id6785667481)
 
 ---
 
-## 🚀 Skills
+### 🔎 OSINTGraph
+
+Desktop OSINT application inspired by Maltego to organize investigations and visualize entities through a relationship graph.
+
+**Stack:** TypeScript · Python · HTML/CSS · Docker
+
+🔗 https://github.com/Hicham77500/OSINTGraph
+
+---
+
+## 💻 Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white)
@@ -37,7 +50,7 @@ Fullstack & Mobile · Produits publiés · Workflows data & agents
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=flat)
 
 <details>
-<summary><b>➕ Voir plus de compétences</b></summary>
+<summary><b>➕ More technologies</b></summary>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -53,15 +66,3 @@ Fullstack & Mobile · Produits publiés · Workflows data & agents
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 </details>
-
----
-
-## ⭐ Projets phares
-
-### 🔎 OSINTGraph — Desktop Intelligence Application
-
-Application de bureau OSINT — inspirée de Maltego — pour structurer vos enquêtes en dossiers et carnets. Elle relie personnes, comptes et artefacts dans un graphe relationnel avec suivi de la provenance et des niveaux de confiance.
-
-**Stack :** TypeScript, Python, HTML/CSS, Docker
-
-Repo : https://github.com/Hicham77500/OSINTGraph
