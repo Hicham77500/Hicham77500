@@ -77,13 +77,3 @@ Application de bureau OSINT — inspirée de Maltego — pour structurer vos enq
 **Stack :** TypeScript, Python, HTML/CSS, Docker
 
 Repo : https://github.com/Hicham77500/OSINTGraph
-
----
-
-### 🚀 Pipeline Big Data Binance
-
-Analyse quasi temps réel des cryptomonnaies : ingestion via API Binance, stockage HDFS, traitements Spark, agrégations MongoDB et visualisation Power BI.
-
-**Stack :** Python, Spark, HDFS, MongoDB, Power BI
-
-Repo : https://github.com/Hicham77500/binance
