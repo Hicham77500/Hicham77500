@@ -18,7 +18,7 @@ Fullstack & Mobile · Produits publiés · Workflows data & agents
 
 * **Reply Fitness** — carnet de suivi fitness iOS (nutrition, entraînement, poids, progression) · sync cloud · export de contexte vers une IA externe (ChatGPT, Claude…)  
   **Stack :** Swift / SwiftUI / SwiftData / Firebase  
-  🔗 [App Store](https://apps.apple.com/fr/app/reply-fitness/id6785667481) · [Portfolio](https://hicham77500.github.io/Portfolio/#production)
+  🔗 [App Store](https://apps.apple.com/fr/app/reply-fitness/id6785667481) 
 
 ---
 
