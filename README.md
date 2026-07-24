@@ -58,17 +58,6 @@ Fullstack & Mobile · Produits publiés · Workflows data & agents
 
 ## ⭐ Projets phares
 
-### 📱 Reply Fitness — App Store
-
-Carnet de suivi intelligent iOS : centraliser nutrition, entraînement et progression, puis exporter un contexte propre vers l’IA de ton choix.  
-Reply n’est pas une IA intégrée — elle prépare le meilleur contexte possible.
-
-**Stack :** SwiftUI, Swift 6, SwiftData, Firebase Auth, Cloud Firestore
-
-🔗 [App Store](https://apps.apple.com/fr/app/reply-fitness/id6785667481)
-
----
-
 ### 🔎 OSINTGraph — Desktop Intelligence Application
 
 Application de bureau OSINT — inspirée de Maltego — pour structurer vos enquêtes en dossiers et carnets. Elle relie personnes, comptes et artefacts dans un graphe relationnel avec suivi de la provenance et des niveaux de confiance.
