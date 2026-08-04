@@ -4,7 +4,7 @@
 
 # Hicham · Software Engineer · Mobile · Data · AI
 
-Fullstack & Mobile · Production Apps · Data Workflows · AI Agents
+Full Stack · Mobile Development · Data Engineering · AI Agents
 
 [LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) · [Malt](https://www.malt.fr/profile/hichamguendouz) · [Portfolio](https://hicham77500.github.io/Portfolio/)
 
@@ -16,17 +16,17 @@ Fullstack & Mobile · Production Apps · Data Workflows · AI Agents
 
 ### 📱 Reply Fitness · App Store
 
-iOS fitness tracker for nutrition, workouts and progress with cloud synchronization and AI context export.
+Production-ready iOS fitness tracker focused on nutrition, workouts, progress tracking and AI context export.
 
 **Stack:** Swift · SwiftUI · SwiftData · Firebase
 
-🔗 [App Store](https://apps.apple.com/fr/app/reply-fitness/id6785667481)
+🔗 https://apps.apple.com/fr/app/reply-fitness/id6785667481
 
 ---
 
 ### 🔎 OSINTGraph
 
-Desktop OSINT application inspired by Maltego to organize investigations and visualize entities through a relationship graph.
+Desktop OSINT platform inspired by Maltego for investigation management and relationship graph visualization.
 
 **Stack:** TypeScript · Python · HTML/CSS · Docker
 
@@ -50,7 +50,7 @@ Desktop OSINT application inspired by Maltego to organize investigations and vis
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=flat)
 
 <details>
-<summary><b>➕ More technologies</b></summary>
+<summary><b>➕ More Technologies</b></summary>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -58,7 +58,7 @@ Desktop OSINT application inspired by Maltego to organize investigations and vis
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-00C7D4?style=flat&logo=apacheairflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-000000?style=flat)
@@ -66,3 +66,11 @@ Desktop OSINT application inspired by Maltego to organize investigations and vis
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 </details>
+
+---
+
+## 🎮 Community
+
+If you're curious how my GitHub profile scores as a football card:
+
+**GitFut** → https://gitfut.com/Hicham77500
