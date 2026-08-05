@@ -2,10 +2,8 @@
 
 <img src="programming.gif" width="420" />
 
-# Hicham · Software Engineer · Mobile · AI
-
-Full Stack · Mobile Development · AI Agents
-
+# Hicham · Full Stack · Mobile Development · AI Agents
+---
 [LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) · [Malt](https://www.malt.fr/profile/hichamguendouz) · [Portfolio](https://hicham77500.github.io/Portfolio/)
 
 </div>
