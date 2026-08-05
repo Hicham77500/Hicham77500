@@ -2,11 +2,9 @@
 
 <img src="programming.gif" width="420" />
 
-# Full Stack · Mobile Developer
-
 ```text
 MISSION STATUS : ACTIVE
-SPECIALIZATION : MOBILE • AI • DATA
+SPECIALIZATION : FULL STACK • MOBILE DEVELOPER
 ```
 
 [LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) · [Malt](https://www.malt.fr/profile/hichamguendouz) · [Portfolio](https://hicham77500.github.io/Portfolio/)
