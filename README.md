@@ -4,7 +4,7 @@
 
 ```text
 MISSION STATUS : ACTIVE
-SPECIALIZATION : FULL STACK • MOBILE DEVELOPER
+SPECIALIZATION : FULL STACK • MOBILE DEVELOPMENT
 ```
 
 [LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) · [Malt](https://www.malt.fr/profile/hichamguendouz) · [Portfolio](https://hicham77500.github.io/Portfolio/)
@@ -13,7 +13,7 @@ SPECIALIZATION : FULL STACK • MOBILE DEVELOPER
 
 ---
 
-## 🪖 Active Operations
+## 🚀 Projects
 
 ### 📱 Reply Fitness · App Store
 
@@ -35,7 +35,7 @@ Desktop OSINT platform inspired by Maltego for investigation management and rela
 
 ---
 
-## ⚙️ Equipment
+## 💻 Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white)
@@ -51,7 +51,7 @@ Desktop OSINT platform inspired by Maltego for investigation management and rela
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=flat)
 
 <details>
-<summary><b>➕ Additional Equipment</b></summary>
+<summary><b>➕ Additional Technologies</b></summary>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -70,7 +70,7 @@ Desktop OSINT platform inspired by Maltego for investigation management and rela
 
 ---
 
-## 🎖 Community
+## 🎮 Community
 
 Curious how my GitHub profile compares as a football card?
 
