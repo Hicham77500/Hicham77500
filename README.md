@@ -2,15 +2,20 @@
 
 <img src="programming.gif" width="420" />
 
-#  Full Stack · Mobile Developer
----
+# Full Stack · Mobile Developer
+
+```text
+MISSION STATUS : ACTIVE
+SPECIALIZATION : MOBILE • AI • DATA
+```
+
 [LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) · [Malt](https://www.malt.fr/profile/hichamguendouz) · [Portfolio](https://hicham77500.github.io/Portfolio/)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🪖 Active Operations
 
 ### 📱 Reply Fitness · App Store
 
@@ -32,7 +37,7 @@ Desktop OSINT platform inspired by Maltego for investigation management and rela
 
 ---
 
-## 💻 Tech Stack
+## ⚙️ Equipment
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white)
@@ -48,7 +53,7 @@ Desktop OSINT platform inspired by Maltego for investigation management and rela
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B35?style=flat)
 
 <details>
-<summary><b>➕ More Technologies</b></summary>
+<summary><b>➕ Additional Equipment</b></summary>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -67,8 +72,8 @@ Desktop OSINT platform inspired by Maltego for investigation management and rela
 
 ---
 
-## 🎮 Community
+## 🎖 Community
 
-If you're curious how my GitHub profile scores as a football card:
+Curious how my GitHub profile compares as a football card?
 
 **GitFut** → https://gitfut.com/Hicham77500
