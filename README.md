@@ -4,7 +4,7 @@
 
 ```text
 MISSION STATUS : ACTIVE
-SPECIALIZATION : FULL STACK • MOBILE DEVELOPMENT
+SPECIALIZATION : MOBILE DEVELOPMENT
 ```
 
 [LinkedIn](https://www.linkedin.com/in/hicham-guendouz-578759125/) · [Malt](https://www.malt.fr/profile/hichamguendouz) · [Portfolio](https://hicham77500.github.io/Portfolio/)
