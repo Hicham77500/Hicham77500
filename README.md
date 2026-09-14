@@ -4,7 +4,7 @@
 
 ```text
 MISSION STATUS : ACTIVE
-SPECIALIZATION : MOBILE DEVELOPMENT & Développeur full stack
+SPECIALIZATION : Mobile Developpement & Full Stack Web
 ```
 
 
