@@ -3,7 +3,6 @@
 <img src="programming.gif" width="420" />
 
 ```text
-MISSION STATUS : ACTIVE
 SPECIALIZATION : Mobile Developpement & Full Stack Web
 ```
 
